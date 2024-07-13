@@ -1,6 +1,6 @@
-# THE SIMPLEST K8S INITIATION WITH KI 🕸️ 
+# THE SIMPLEST K8S INITIATION WITH KIND 🕸️🐋
 
-##⚡ Start k8s cluster 
+## ⚡ Start k8s cluster 
 
 ```bash
 make start-cluster
